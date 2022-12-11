@@ -14,6 +14,7 @@ Determine the county with the highest turnout.
 
 ## **Resources**
 Data Source: election_results.csv
+
 Software: Python 3.7.6, Visual Studio Code 1.74.0
 
 ## **Summary**
@@ -31,18 +32,8 @@ The winner of the election was:
   - Diana DeGette received 73.8% of the vote, for a total of 272,892 votes.
   
   
-Election Results
--------------------------
-Total Votes: 369,711
--------------------------
-Charles Casper Stockham: 23.0% (85,213)
-Diana DeGette: 73.8% (272,892)
-Raymon Anthony Doane: 3.1% (11,606)
--------------------------
-Winner: Diana DeGette
-Winning Vote Count: 272,892
-Winning Percentage: 73.8%
--------------------------
+![Screenshot_20221211_115724](https://user-images.githubusercontent.com/118132063/206933889-b8977e1d-fb53-4a4e-82f8-24cac3ce597b.png)
+
 
   
   ## **Challenge Overview**
@@ -51,6 +42,6 @@ Winning Percentage: 73.8%
     - Calculate the percentage of voted for each candidate.
     
   ## **Challenge Summary**
-  The challeger summer shows that there was a total of 369, 711 total votes. The winner was Diana DeGette with 73.8% votes, which totals 272,892, the second was Charles Casper Stockham with 23% votes, which totals 85,213 and in third place was Raymon Anthony Doane 3.1%, which totals 11,606. 
+  The challenge summery shows that there was a total of 369, 711 total votes. The winner was Diana DeGette with 73.8% votes, which totals 272,892, the second was Charles Casper Stockham with 23% votes, which totals 85,213 and in third place was Raymon Anthony Doane 3.1%, which totals 11,606. 
 
   
