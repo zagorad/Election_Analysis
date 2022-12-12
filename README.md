@@ -42,6 +42,6 @@ The winner of the election was:
     - Calculate the percentage of voted for each candidate.
     
   ## **Challenge Summary**
-  The challenge summery shows that there was a total of 369, 711 total votes. The winner was Diana DeGette with 73.8% votes, which totals 272,892, the second was Charles Casper Stockham with 23% votes, which totals 85,213 and in third place was Raymon Anthony Doane 3.1%, which totals 11,606. 
+  The challenge summery shows that there was a total of 369, 711 total votes. The winner was Diana DeGette with 73.8% votes, which totals 272,892, the second was Charles Casper Stockham with 23% votes, which totals 85,213 and in third place was Raymon Anthony Doane 3.1%, which totals 11,606. Also, Denver with has the largest county turnout with 82.8%, which totals 306,055.
 
   
